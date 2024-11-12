@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lemans\\Documents\\docs\\Game_Project\\projects\\teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F68B115-A8C7-406C-A550-01FE806DCAC8}|Teste.csproj|c:\\users\\lemans\\documents\\docs\\game_project\\projects\\teste\\player\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F68B115-A8C7-406C-A550-01FE806DCAC8}|Teste.csproj|solutionrelative:player\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\lemans\\Documents\\docs\\Game_Project\\projects\\teste\\Player\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Player\\scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\lemans\\Documents\\docs\\Game_Project\\projects\\teste\\Player\\scripts\\Player.cs",
+              "RelativeToolTip": "Player\\scripts\\Player.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwIMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:13:45.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
